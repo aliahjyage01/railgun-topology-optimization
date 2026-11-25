@@ -1,0 +1,17 @@
+# Figures et maillages régénérés à la racine par les scripts
+# (les versions retenues sont dans images/)
+/*.png
+*.vtu
+*.vol
+
+# Environnement Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS / éditeurs
+.DS_Store
+.idea/
+.vscode/
